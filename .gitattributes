@@ -1,1 +1,2 @@
-/Users/siddhantchoudhary/Downloads/raleigh-cool-pavements-main/Data/Analysis/05_Analysis_Data.csv filter=lfs diff=lfs merge=lfs -text
+# Auto detect text files and perform LF normalization
+* text=auto
