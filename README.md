@@ -16,9 +16,7 @@ The Python scripts are translations of the original R analysis scripts and are u
 
 ### 1. Download the repository
 
-Download or clone the repository from GitHub:
-
-[GitHub repository](https://github.com/siddhantchoudhary618/2026-Raleigh-Cool-Pavements)
+Download or clone this repository from GitHub
 
 ### 2. Download `05_Analysis_Data.csv`
 
