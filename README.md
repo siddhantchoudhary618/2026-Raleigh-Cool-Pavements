@@ -34,18 +34,7 @@ raleigh-cool-pavements-main/
     └── Analysis/
         └── 05_Analysis_Data.csv
 ```
-
-### 3. Install the required Python packages
-
-Create a virtual environment and install the required packages:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install pandas numpy geopandas matplotlib seaborn statsmodels
-```
-
-### 4. Change `PROJECT_ROOT`
+### 3. Change `PROJECT_ROOT`
 
 The Python scripts contain a `PROJECT_ROOT` variable near the top of the file. It currently points to the original computer where the code was developed.
 
